@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71315774847",
+    "firebase_url": "https://s3750234.firebaseio.com",
+    "project_id": "s3750234",
+    "storage_bucket": "s3750234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71315774847:android:f72deb040941a0790f0e4a",
+        "android_client_info": {
+          "package_name": "rmit.ad.cafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71315774847-rgnnbr56pghoqvugptm80f0fbf2fd4o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rmit.ad.cafeteria",
+            "certificate_hash": "cc9705784be69f0567f4915fbc01a2ee2216f8d5"
+          }
+        },
+        {
+          "client_id": "71315774847-ijh22h3ga1s8icm0budk9svt3hon57ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt49IfK920SWycq5XcihiJn32JHoOthw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71315774847-ijh22h3ga1s8icm0budk9svt3hon57ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
